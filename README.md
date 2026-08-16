@@ -43,6 +43,6 @@
 点击模块右侧的 Web 控制台 按钮，在可视化界面中切换节点、查看实时流量与延迟。
 
 📄 开源与致谢
-代理核心：Mihomo (MetaCubeX)
+代理核心：Mihomo（https://github.com/MetaCubeX/mihomo）
 
-规则数据库：meta-rules-dat
+规则数据库：meta-rules-dat（https://github.com/MetaCubeX/meta-rules-dat）
